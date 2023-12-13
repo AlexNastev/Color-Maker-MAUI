@@ -1,0 +1,1 @@
+C:\Users\alexn\source\repos\UdemyMauiCourse\ColorMakerApp\ColorMakerApp\ColorMakerApp.csproj;x64
